@@ -1,6 +1,8 @@
 #include "AppDelegate.h"
 #include "HelloWorldScene.h"
 
+//comment fjoojf;come;copeqh;fapeoj
+
 USING_NS_CC;
 
 AppDelegate::AppDelegate() {
